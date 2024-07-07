@@ -32,4 +32,4 @@ These instructions will help you set up and run the project on your local machin
 7.  We have provide postman collection within the project. You can use it as reference for the API Request and Response.
 Import it in your postman for api API examples.
     ``` 
-    ''
+    'impero_task.postman_collection.json'
