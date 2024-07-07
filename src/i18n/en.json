@@ -1,0 +1,16 @@
+{
+	"registerValidationEmailRequired": "email is required",
+	"registerValidationPasswordRequired": "password required",
+	"loginValidationEmailRequired": "email is required",
+	"loginValidationPasswordRequired": "password required",
+	"taskValidationTitleRequired": "title is required",
+	"taskValidationDescriptionRequired": "description is required",
+	"taskValidationPriorityRequired": "priority is required",
+	"taskValidationPriorityOnly": "task priority must be between 'high', 'medium', 'low'",
+	"taskValidationDuedateRequired": "dueDate is required",
+	"taskValidationDuedatePattern": "dueDate must be in dd-mm-yyyy format",
+	"taskValidationStatusOnly": "status must be between 'completed', 'in progress'",
+	"taskValidationIdRequired": "id is required",
+	"taskValidationStatusRequired": "status is required",
+	"loginValidationPasswordMin": "loginValidationPasswordMin"
+}
